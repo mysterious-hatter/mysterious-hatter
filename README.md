@@ -1,3 +1,8 @@
 # Hello, world!
-
-### I'm a beginning fullstack-developer.
+## About me
+### I'm a beginning fullstack-developer from Russia.
+#### - Go
+#### - C#
+#### - Python
+#### - C
+#### - JS
