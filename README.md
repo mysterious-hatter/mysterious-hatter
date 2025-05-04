@@ -8,4 +8,3 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mysterious-hatter&repo=go-referral-bot&theme=discord_old_blurple&description_lines_count=1)](https://github.com/mysterious-hatter/go-referral-bot)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mysterious-hatter&repo=quadratic-equation-solver&theme=discord_old_blurple&description_lines_count=1)](https://github.com/Gregory-coder/quadratic-equation-solver)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=mysterious-hatter&repo=clothes_Bot&theme=discord_old_blurple&description_lines_count=1)](https://github.com/Gregory-coder/clothes_Bot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=garlic-toasts&repo=webauthn-frontend&theme=discord_old_blurple&description_lines_count=1)](https://github.com/Garlic-Toasts/webauthn-frontend/)
